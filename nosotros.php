@@ -54,7 +54,7 @@
     <div class="container">
 
       <!-- Brand -->
-      <a class="navbar-brand" href="https://mdbootstrap.com/docs/jquery/" target="_blank">
+      <a class="navbar-brand" href="" target="_blank">
         <strong>[LOGO]</strong>
       </a>
 
@@ -70,18 +70,18 @@
         <!-- Left -->
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="/audio%20waves/">Inicio
+            <a class="nav-link" href="/AudiowWaves/">Inicio
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/audio%20waves/catalogos" target="_blank">Catalogos</a>
+            <a class="nav-link" href="/AudiowWaves/catalogos" target="_blank">Catalogos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/audio%20waves/contacto" target="_blank">Contacto</a>
+            <a class="nav-link" href="/AudiowWaves/contacto" target="_blank">Contacto</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/audio%20waves/nosotros" target="_blank">Nosotros</a>
+            <a class="nav-link" href="/AudiowWaves/nosotros" target="_blank">Nosotros</a>
           </li>
         </ul>
 
@@ -89,7 +89,7 @@
         <ul class="navbar-nav nav-flex-icons">
           
           <li class="nav-item">
-            <a href="/audio%20waves/" class="nav-link border border-light rounded"
+            <a href="/AudiowWaves/" class="nav-link border border-light rounded"
               target="_blank">
               <i class="fab fa-facebook-f mr-2"></i></i>Audio Waves
             </a>
@@ -142,7 +142,7 @@
         </div>
         <div class="row justify-content-center align-items-center">
               <div class="col-6 ">
-              <a target="_blank" href="/audio%20waves/catalogos" class="btn btn-indigo btn-block btn-lg">Nuestros Productos
+              <a target="_blank" href="/AudiowWaves/catalogos" class="btn btn-indigo btn-block btn-lg">Nuestros Productos
               <i class="fas fa-arrow-circle-right ml-2 fa-lg"></i>
             </a>
               </div>
