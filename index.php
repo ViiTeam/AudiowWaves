@@ -207,11 +207,12 @@ git login<!DOCTYPE html>
             <!--First row-->
             <div class="row">
               <div class="col-1 mr-3">
-                <!--<i class="fas fa-code fa-2x indigo-text"></i>-->
+                <i class="fas fa-headset fa-2x blue-text"></i>
               </div>
               <div class="col-10">
                 <h5 class="feature-title">Respuesta rapida.</h5>
-                <p class="grey-text">Thanks to MDB you can take advantage of all feature of newest Bootstrap 4.</p>
+                <p class="grey-text">Nuestros clientes son lo más importante y para demostrarlo, 
+                atendemos todas las dudas que puedan presentarse en el menor tiempo posible.</p>
               </div>
             </div>
             <!--/First row-->
@@ -221,12 +222,12 @@ git login<!DOCTYPE html>
             <!--Second row-->
             <div class="row">
               <div class="col-1 mr-3">
-                <i class="fas fa-book fa-2x blue-text"></i>
+                <i class="far fa-grin-alt fa-2x blue-text"></i>
               </div>
               <div class="col-10">
-                <h5 class="feature-title">Detailed documentation</h5>
-                <p class="grey-text">We give you detailed user-friendly documentation at your disposal. It will help you to implement your ideas
-                  easily.
+                <h5 class="feature-title">Actitud positiva</h5>
+                <p class="grey-text">Ofrecemos la mejor atención a nuestros clientes y les 
+                apoyamos en todas las inquietudes que se puedan presentar.
                 </p>
               </div>
             </div>
@@ -237,14 +238,17 @@ git login<!DOCTYPE html>
             <!--Third row-->
             <div class="row">
               <div class="col-1 mr-3">
-                <i class="fas fa-graduation-cap fa-2x cyan-text"></i>
+                <i class="fas fa-star fa-2x blue-text"></i>
               </div>
               <div class="col-10">
-                <h5 class="feature-title">Lots of tutorials</h5>
-                <p class="grey-text">We care about the development of our users. We have prepared numerous tutorials, which allow you to learn
-                  how to use MDB as well as other technologies.</p>
+                <h5 class="feature-title">Productos de calidad</h5>
+                <p class="grey-text">Nuestro productos son de la mejor calidad y garantizamos completamente su compra.</p>
               </div>
             </div>
+
+            <a target="_blank" href="/AudiowWaves/contacto" class="btn btn-indigo btn-md">CONTACTANOS
+              <i class="fas fa-headset ml-1"></i>
+            </a>
             <!--/Third row-->
 
           </div>
@@ -252,11 +256,8 @@ git login<!DOCTYPE html>
 
           <!--Grid column-->
           <div class="col-lg-6 col-md-12">
-
-            <p class="h5 text-center mb-4">Watch our "5 min Quick Start" tutorial</p>
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cXTThxoywNQ" allowfullscreen></iframe>
-            </div>
+            <img src="img\HOME-primera.jpg" class="img-fluid z-depth-1-half" alt="">
+ 
           </div>
           <!--/Grid column-->
 
