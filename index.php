@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+git login<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -122,7 +122,7 @@
             <hr class="hr-light">
 
             <p>
-              <strong>[pequeño objetivo]</strong>
+              <strong>[pequeño]</strong>
             </p>
 
             <p class="mb-4 d-none d-md-block">
