@@ -103,7 +103,7 @@ git login<!DOCTYPE html>
   <!-- Navbar -->
 
   <!-- Full Page Intro -->
-  <div class="view full-page-intro" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/78.jpg'); background-repeat: no-repeat; background-size: cover;">
+  <div class="view full-page-intro" style="background-image: url(img/logo.jpg); background-repeat: no-repeat; background-size: cover;">
 
     <!-- Mask & flexbox options-->
     <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
@@ -116,17 +116,7 @@ git login<!DOCTYPE html>
 
           <!--Grid column-->
           <div class="col-md-12 mb-4 white-text text-center text-md-left">
-
-            <h1 class="display-4 font-weight-bold">Audio Waves Oficial</h1>
-
-            <hr class="hr-light">
-
-            <p>
-              <strong>[segunda prueba de cambio]</strong>
-            </p>
-
             <p class="mb-4 d-none d-md-block">
-              <strong>[breve descripcion]</strong>
             </p>
 
            
@@ -142,9 +132,6 @@ git login<!DOCTYPE html>
         </div>
         <div class="row justify-content-center align-items-center">
               <div class="col-6 ">
-              <a target="_blank" href="/AudiowWaves/catalogos" class="btn btn-indigo btn-block btn-lg">Nuestros Productos
-              <i class="fas fa-arrow-circle-right ml-2 fa-lg"></i>
-            </a>
               </div>
 
           </div>
@@ -172,7 +159,7 @@ git login<!DOCTYPE html>
           <!--Grid column-->
           <div class="col-md-6 mb-4">
 
-            <img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-main.jpg" class="img-fluid z-depth-1-half" alt="">
+            <img src="img\HOME-primera.jpg" class="img-fluid z-depth-1-half" alt="">
 
           </div>
           <!--Grid column-->
@@ -181,26 +168,17 @@ git login<!DOCTYPE html>
           <div class="col-md-6 mb-4">
 
             <!-- Main heading -->
-            <h3 class="h3 mb-3">Material Design for Bootstrap</h3>
-            <p>This template is created with Material Design for Bootstrap (
-              <strong>MDB</strong> ) framework.</p>
-            <p>Read details below to learn more about MDB.</p>
+            <h3 class="h3 mb-3">Descarga nuestros catalogos</h3>
+            <p>Encuentra todo lo que necesitas para equipar tu automóvil con el mejor equipo de audio del mercado.</p>
+            <p>Audio Waves Control es tu mejor opción.</p>
             <!-- Main heading -->
 
             <hr>
 
-            <p>
-              <strong>400+</strong> material UI elements,
-              <strong>600+</strong> material icons,
-              <strong>74</strong> CSS animations, SASS files, templates, tutorials and many more.
-              <strong>Free for personal and commercial use.</strong>
-            </p>
+            <p>Las mejores marcas a los mejores precios.</p>
 
             <!-- CTA -->
-            <a target="_blank" href="https://mdbootstrap.com/docs/jquery/getting-started/download/" class="btn btn-indigo btn-md">Download
-              <i class="fas fa-download ml-1"></i>
-            </a>
-            <a target="_blank" href="https://mdbootstrap.com/docs/jquery/components/" class="btn btn-indigo btn-md">Live demo
+            <a target="_blank" href="/AudiowWaves/catalogos" class="btn btn-indigo btn-md">Catalogos
               <i class="far fa-image ml-1"></i>
             </a>
 
@@ -218,7 +196,7 @@ git login<!DOCTYPE html>
       <!--Section: Main features & Quick Start-->
       <section>
 
-        <h3 class="h3 text-center mb-5">About MDB</h3>
+        <h3 class="h3 text-center mb-5">Contactanos</h3>
 
         <!--Grid row-->
         <div class="row wow fadeIn">
@@ -229,10 +207,10 @@ git login<!DOCTYPE html>
             <!--First row-->
             <div class="row">
               <div class="col-1 mr-3">
-                <i class="fas fa-code fa-2x indigo-text"></i>
+                <!--<i class="fas fa-code fa-2x indigo-text"></i>-->
               </div>
               <div class="col-10">
-                <h5 class="feature-title">Bootstrap 4</h5>
+                <h5 class="feature-title">Respuesta rapida.</h5>
                 <p class="grey-text">Thanks to MDB you can take advantage of all feature of newest Bootstrap 4.</p>
               </div>
             </div>
