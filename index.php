@@ -122,7 +122,7 @@ git login<!DOCTYPE html>
             <hr class="hr-light">
 
             <p>
-              <strong>[pequeño]</strong>
+              <strong>[segunda prueba de cambio]</strong>
             </p>
 
             <p class="mb-4 d-none d-md-block">
