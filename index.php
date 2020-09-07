@@ -78,7 +78,7 @@
             <a class="nav-link" href="/AudiowWaves/catalogos" target="_blank">Catalogos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/AudiowWaves/contacto" target="_blank">Contacto</a>
+            <a class="nav-link" href="/AudiowWaves/contacto">Contacto</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/AudiowWaves/nosotros" target="_blank">Nosotros</a>
