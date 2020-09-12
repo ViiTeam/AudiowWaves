@@ -126,7 +126,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Woofer</h5>                            
                             <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
+                            <a href="recursos/alfonso_contreras_cv.docx.pdf" target="_blank" class = "btn btn-success">¡Mira nuestro catálago!</a>
                         </div>
                     </div>
                     <div class="card">
@@ -160,7 +160,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Estereos</h5>                            
                             <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
+                            <a href="#"  class = "btn btn-success">¡Descarga el catálago!</a>
                         </div>
                     </div>
                     <div class="card">
