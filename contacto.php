@@ -151,10 +151,10 @@
 
       </div>
       <!-- Content -->
-      <div class="col-md-4 mb-4 white-text" style="float:left;">
+      <!-- <div class="col-md-4 mb-4 white-text" style="float:left;">
       <h1 class="display-4">Encuentranos</h1>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d59752.752668946596!2d-103.33285648919161!3d20.60654751532894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x8428b3112139cbc7%3A0x4de829f9f4351a77!2sEsteban%20Vaca%20Calder%C3%B3n%2035%2C%20El%20Cerrito%2C%2045629%20San%20Pedro%20Tlaquepaque%2C%20Jal.%2C%20M%C3%A9xico!3m2!1d20.6064707!2d-103.2978368!5e0!3m2!1ses!2smx!4v1599867229795!5m2!1ses!2smx" width="800" height="600" frameborder="0" style="border:0;  max-width: 100%; height: auto;" allowfullscreen="" aria-hidden="false" tabindex="0" id="preloader"></iframe>
-    </div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d59752.752668946596!2d-103.33285648919161!3d20.60654751532894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x8428b3112139cbc7%3A0x4de829f9f4351a77!2sEsteban%20Vaca%20Calder%C3%B3n%2035%2C%20El%20Cerrito%2C%2045629%20San%20Pedro%20Tlaquepaque%2C%20Jal.%2C%20M%C3%A9xico!3m2!1d20.6064707!2d-103.2978368!5e0!3m2!1ses!2smx!4v1599867229795!5m2!1ses!2smx" width="1000" height="1200" frameborder="0" style="border:0;  max-width: 100%; height: auto;" allowfullscreen="" aria-hidden="false" tabindex="0" id="preloader"></iframe>
+    </div> -->
 
 
     </div>
