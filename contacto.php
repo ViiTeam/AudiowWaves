@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Audio Wabes | Home</title>
+  <title>Audio Wabes Control | Contacto</title>
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
   <!-- Bootstrap core CSS -->
@@ -54,7 +54,7 @@
     <div class="container">
 
       <!-- Brand -->
-      <a class="navbar-brand" href="" target="_blank">
+      <a class="navbar-brand" href="/AudiowWaves/" target="_self">
         <strong>[LOGO]</strong>
       </a>
 
@@ -75,13 +75,13 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/AudiowWaves/catalogos" target="_blank">Catalogos</a>
+            <a class="nav-link" href="/AudiowWaves/catalogos" target="_self">Catalogos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/AudiowWaves/contacto" target="_blank">Contacto</a>
+            <a class="nav-link" href="/AudiowWaves/contacto" target="_self">Contacto</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/AudiowWaves/nosotros" target="_blank">Nosotros</a>
+            <a class="nav-link" href="/AudiowWaves/nosotros" target="_self">Nosotros</a>
           </li>
         </ul>
 
@@ -89,7 +89,7 @@
         <ul class="navbar-nav nav-flex-icons">
           
           <li class="nav-item">
-            <a href="/AudiowWaves/" class="nav-link border border-light rounded"
+            <a href="https://facebook.com/" class="nav-link border border-light rounded"
               target="_blank">
               <i class="fab fa-facebook-f mr-2"></i></i>Audio Waves
             </a>

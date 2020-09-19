@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Audio Wabes | Home</title>
+  <title>Audio Wabes Control | Nosotros</title>
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
   <!-- Bootstrap core CSS -->
@@ -14,6 +14,7 @@
   <link href="css/mdb.min.css" rel="stylesheet">
   <!-- Your custom styles (optional) -->
   <link href="css/style.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
   <style type="text/css">
     html,
     body,
@@ -44,6 +45,8 @@
                   background: #1C2331!important;
               }
           }
+    
+
   </style>
 </head>
 
@@ -54,7 +57,7 @@
     <div class="container">
 
       <!-- Brand -->
-      <a class="navbar-brand" href="" target="_blank">
+      <a class="navbar-brand" href="/AudiowWaves/" target="_self">
         <strong>[LOGO]</strong>
       </a>
 
@@ -75,13 +78,13 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/AudiowWaves/catalogos" target="_blank">Catalogos</a>
+            <a class="nav-link" href="/AudiowWaves/catalogos" target="_self">Catalogos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/AudiowWaves/contacto" target="_blank">Contacto</a>
+            <a class="nav-link" href="/AudiowWaves/contacto" target="_self">Contacto</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/AudiowWaves/nosotros" target="_blank">Nosotros</a>
+            <a class="nav-link" href="/AudiowWaves/nosotros" target="_self">Nosotros</a>
           </li>
         </ul>
 
@@ -89,7 +92,7 @@
         <ul class="navbar-nav nav-flex-icons">
           
           <li class="nav-item">
-            <a href="/AudiowWaves/" class="nav-link border border-light rounded"
+            <a href="https://facebook.com/" class="nav-link border border-light rounded"
               target="_blank">
               <i class="fab fa-facebook-f mr-2"></i></i>Audio Waves
             </a>
@@ -102,63 +105,11 @@
   </nav>
   <!-- Navbar -->
 
-  <!-- Full Page Intro -->
-  <div class="view full-page-intro" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/78.jpg'); background-repeat: no-repeat; background-size: cover;">
-
-    <!-- Mask & flexbox options-->
-    <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
-
-      <!-- Content -->
-      <div class="container">
-
-        <!--Grid row-->
-        <div class="row wow fadeIn">
-
-          <!--Grid column-->
-          <div class="col-md-12 mb-4 white-text text-center text-md-left">
-
-            <h1 class="display-4 font-weight-bold">Audio Waves Oficial</h1>
-
-            <hr class="hr-light">
-
-            <p>
-              <strong>[pequeño objetivo]</strong>
-            </p>
-
-            <p class="mb-4 d-none d-md-block">
-              <strong>[breve descripcion]</strong>
-            </p>
-
-           
-
-          </div>
-          
-          <!--Grid column-->
-
-          <!--Grid column-->
-          
-          <!--Grid column-->
-
-        </div>
-        <div class="row justify-content-center align-items-center">
-              <div class="col-6 ">
-              <a target="_blank" href="/AudiowWaves/catalogos" class="btn btn-indigo btn-block btn-lg">Nuestros Productos
-              <i class="fas fa-arrow-circle-right ml-2 fa-lg"></i>
-            </a>
-              </div>
-
-          </div>
-        <!--Grid row-->
-
-      </div>
-      <!-- Content -->
-
-    </div>
-    <!-- Mask & flexbox options-->
-
-  </div>
-  <!-- Full Page Intro -->
-
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   <!--Main layout-->
   <main>
     <div class="container">
@@ -172,7 +123,7 @@
           <!--Grid column-->
           <div class="col-md-6 mb-4">
 
-            <img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-main.jpg" class="img-fluid z-depth-1-half" alt="">
+            <img src="img\tienda.jpg" class="img-fluid z-depth-1-half" alt="">
 
           </div>
           <!--Grid column-->
@@ -181,28 +132,10 @@
           <div class="col-md-6 mb-4">
 
             <!-- Main heading -->
-            <h3 class="h3 mb-3">Material Design for Bootstrap</h3>
-            <p>This template is created with Material Design for Bootstrap (
-              <strong>MDB</strong> ) framework.</p>
-            <p>Read details below to learn more about MDB.</p>
-            <!-- Main heading -->
-
-            <hr>
-
-            <p>
-              <strong>400+</strong> material UI elements,
-              <strong>600+</strong> material icons,
-              <strong>74</strong> CSS animations, SASS files, templates, tutorials and many more.
-              <strong>Free for personal and commercial use.</strong>
-            </p>
-
-            <!-- CTA -->
-            <a target="_blank" href="https://mdbootstrap.com/docs/jquery/getting-started/download/" class="btn btn-indigo btn-md">Download
-              <i class="fas fa-download ml-1"></i>
-            </a>
-            <a target="_blank" href="https://mdbootstrap.com/docs/jquery/components/" class="btn btn-indigo btn-md">Live demo
-              <i class="far fa-image ml-1"></i>
-            </a>
+            <h3 class="h3 mb-3"><strong>NOSOTROS</strong>  </h3>
+            <p>Aqui ca el texto de los define como empresa, ejemplo.</p>
+            <p>Somos una empresa dedicada a la distribucion de productos de audio de la mas alta calidad
+            al mas bajo precio del mercado, la atencion y el respeto son los valores que nmos definen</p>
 
           </div>
           <!--Grid column-->
@@ -211,379 +144,103 @@
         <!--Grid row-->
 
       </section>
-      <!--Section: Main info-->
+      <br>
 
-      <hr class="my-5">
 
-      <!--Section: Main features & Quick Start-->
+      <!--Inicio del carrousel-->
       <section>
+        <div class="slider">
+	        <div class="slide-track">
+		    		<div class="slide">
+			        <img ></img>
+		        </div>
 
-        <h3 class="h3 text-center mb-5">About MDB</h3>
+            <div class="slide">
+			        <img ></img>
+		        </div>
 
-        <!--Grid row-->
-        <div class="row wow fadeIn">
+            <div class="slide">
+			        <img ></img>
+		        </div>
 
-          <!--Grid column-->
-          <div class="col-lg-6 col-md-12 px-4">
+            <div class="slide">
+			        <img ></img>
+		        </div>
+            
+            <div class="slide">
+			        <img ></img>
+		        </div>
 
-            <!--First row-->
-            <div class="row">
-              <div class="col-1 mr-3">
-                <i class="fas fa-code fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h5 class="feature-title">Bootstrap 4</h5>
-                <p class="grey-text">Thanks to MDB you can take advantage of all feature of newest Bootstrap 4.</p>
-              </div>
-            </div>
-            <!--/First row-->
+            <div class="slide">
+			        <img src="img\carrousel\audio_control.png" class="imgC"></img>
+		        </div>
 
-            <div style="height:30px"></div>
+	        	<div class="slide">
+	        		<img src="img\carrousel\carbon_audio.png" class="imgC"></img>
+	        	</div>
 
-            <!--Second row-->
-            <div class="row">
-              <div class="col-1 mr-3">
-                <i class="fas fa-book fa-2x blue-text"></i>
-              </div>
-              <div class="col-10">
-                <h5 class="feature-title">Detailed documentation</h5>
-                <p class="grey-text">We give you detailed user-friendly documentation at your disposal. It will help you to implement your ideas
-                  easily.
-                </p>
-              </div>
-            </div>
-            <!--/Second row-->
+	        	<div class="slide">
+	        		<img src="img\carrousel\clarion.png" class="imgC"></img>
+        		</div>
 
-            <div style="height:30px"></div>
+	        	<div class="slide">
+		        	<img src="img\carrousel\crunch.png" class="imgC"></img>
+	        	</div>
 
-            <!--Third row-->
-            <div class="row">
-              <div class="col-1 mr-3">
-                <i class="fas fa-graduation-cap fa-2x cyan-text"></i>
-              </div>
-              <div class="col-10">
-                <h5 class="feature-title">Lots of tutorials</h5>
-                <p class="grey-text">We care about the development of our users. We have prepared numerous tutorials, which allow you to learn
-                  how to use MDB as well as other technologies.</p>
-              </div>
-            </div>
-            <!--/Third row-->
+	        	<div class="slide">
+        			<img src="img\carrousel\dbdrive.png" class="imgC"></img>
+        		</div>
 
-          </div>
-          <!--/Grid column-->
+	        	<div class="slide">
+        			<img src="img\carrousel\hifonics.png" class="imgC"></img>	
+        		</div>
 
-          <!--Grid column-->
-          <div class="col-lg-6 col-md-12">
+	        	<div class="slide">
+	        		<img src="img\carrousel\hypnotic.png" class="imgC"></img>
+        		</div>
 
-            <p class="h5 text-center mb-4">Watch our "5 min Quick Start" tutorial</p>
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cXTThxoywNQ" allowfullscreen></iframe>
-            </div>
-          </div>
-          <!--/Grid column-->
+	        	<div class="slide">
+	        		<img src="img\carrousel\jvc.png" class="imgC"></img>
+	        	</div>
 
+	        	<div class="slide">
+        			<img src="img\carrousel\kicker.png" class="imgC"></img>
+	        	</div>
+
+        		<div class="slide">
+	        		<img src="img\carrousel\orion.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\pioneer.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\planetaudio.png" class="imgC"></img>	
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\quantum.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\rock_series.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\sony.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\soundstream.png" class="imgC"></img>
+        		</div>
+
+        	</div>
         </div>
-        <!--/Grid row-->
+
 
       </section>
-      <!--Section: Main features & Quick Start-->
-
-      <hr class="my-5">
-
-      <!--Section: Not enough-->
-      <section>
-
-        <h2 class="my-5 h3 text-center">Not enough?</h2>
-
-        <!--First row-->
-        <div class="row features-small mb-5 mt-3 wow fadeIn">
-
-          <!--First column-->
-          <div class="col-md-4">
-            <!--First row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">Free for personal and commercial use</h6>
-                <p class="grey-text">Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.
-                </p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/First row-->
-
-            <!--Second row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">400+ UI elements</h6>
-                <p class="grey-text">An impressive collection of flexible components allows you to develop any project.
-                </p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/Second row-->
-
-            <!--Third row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">600+ icons</h6>
-                <p class="grey-text">Hundreds of useful, scalable, vector icons at your disposal.</p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/Third row-->
-
-            <!--Fourth row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">Fully responsive</h6>
-                <p class="grey-text">It doesn't matter whether your project will be displayed on desktop, laptop, tablet or mobile phone. MDB
-                  looks great on each screen.</p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/Fourth row-->
-          </div>
-          <!--/First column-->
-
-          <!--Second column-->
-          <div class="col-md-4 flex-center">
-            <img src="https://mdbootstrap.com/img/Others/screens.png" alt="MDB Magazine Template displayed on iPhone" class="z-depth-0 img-fluid">
-          </div>
-          <!--/Second column-->
-
-          <!--Third column-->
-          <div class="col-md-4 mt-2">
-            <!--First row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">70+ CSS animations</h6>
-                <p class="grey-text">Neat and easy to use animations, which will increase the interactivity of your project and delight your visitors.
-                </p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/First row-->
-
-            <!--Second row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">Plenty of useful templates</h6>
-                <p class="grey-text">Need inspiration? Use one of our predefined templates for free.</p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/Second row-->
-
-            <!--Third row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">Easy installation</h6>
-                <p class="grey-text">5 minutes, a few clicks and... done. You will be surprised at how easy it is.
-                </p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/Third row-->
-
-            <!--Fourth row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-check-circle fa-2x indigo-text"></i>
-              </div>
-              <div class="col-10">
-                <h6 class="feature-title">Easy to use and customize</h6>
-                <p class="grey-text">Using MDB is straightforward and pleasant. Components flexibility allows you deep customization. You will
-                  easily adjust each component to suit your needs.</p>
-                <div style="height:15px"></div>
-              </div>
-            </div>
-            <!--/Fourth row-->
-          </div>
-          <!--/Third column-->
-
-        </div>
-        <!--/First row-->
-
-      </section>
-      <!--Section: Not enough-->
-
-      <hr class="mb-5">
-
-      <!--Section: More-->
-      <section>
-
-        <h2 class="my-5 h3 text-center">...and even more</h2>
-
-        <!--First row-->
-        <div class="row features-small mt-5 wow fadeIn">
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fab fa-firefox fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2 pl-3">
-                <h5 class="feature-title font-bold mb-1">Cross-browser compatibility</h5>
-                <p class="grey-text mt-2">Chrome, Firefox, IE, Safari, Opera, Microsoft Edge - MDB loves all browsers; all browsers love MDB.
-                </p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-level-up-alt fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Frequent updates</h5>
-                <p class="grey-text mt-2">MDB becomes better every month. We love the project and enhance as much as possible.
-                </p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-comments fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Active community</h5>
-                <p class="grey-text mt-2">Our society grows day by day. Visit our forum and check how it is to be a part of our family.
-                </p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-code fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">jQuery 3.x</h5>
-                <p class="grey-text mt-2">MDB is integrated with newest jQuery. Therefore you can use all the latest features which come along with
-                  it.
-                </p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-        </div>
-        <!--/First row-->
-
-        <!--Second row-->
-        <div class="row features-small mt-4 wow fadeIn">
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-cubes fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Modularity</h5>
-                <p class="grey-text mt-2">Material Design for Bootstrap comes with both, compiled, ready to use libraries including all features as
-                  well as modules for CSS (SASS files) and JS.</p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-question fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Technical support</h5>
-                <p class="grey-text mt-2">We care about reliability. If you have any questions - do not hesitate to contact us.
-                </p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-th fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Flexbox</h5>
-                <p class="grey-text mt-2">MDB fully supports Flex Box. You can forget about alignment issues.</p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-          <!--Grid column-->
-          <div class="col-xl-3 col-lg-6">
-            <!--Grid row-->
-            <div class="row">
-              <div class="col-2">
-                <i class="far fa-file-code fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">SASS files</h5>
-                <p class="grey-text mt-2">Arranged and well documented .scss files can't wait until you compile them.</p>
-              </div>
-            </div>
-            <!--/Grid row-->
-          </div>
-          <!--/Grid column-->
-
-        </div>
-        <!--/Second row-->
-
-      </section>
-      <!--Section: More-->
+      <!--fin de carrousel-->
 
     </div>
   </main>
