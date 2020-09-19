@@ -7,7 +7,7 @@ $correo = $_POST["email"];
 $mensaje = $_POST["mensaje"];
 
 $header = "Hola desde Audio Wabes";
-$cuerpo = $nombre . " ".$apellido . "\n" . $mensaje;
+$cuerpo = $correo. "\n" . $nombre . " ".$apellido . "\n" . $mensaje;
 
 mail($destino, "Audio Wabes", $cuerpo, $header);
 echo "<script>alert('Mensaje enviado')</script>";
