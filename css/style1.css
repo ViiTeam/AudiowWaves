@@ -1,0 +1,57 @@
+.galleryCatalogo {
+    border: 1px solid #ffffff;
+  }
+
+  div.galleryCatalogo:hover {
+    border: 1px solid #ffffff;
+  }
+
+  .imgCatalogo:hover {
+    border: 1px solid #000000;
+  }
+  
+  .imgCatalogo {
+    border: 1px solid #ffffff;
+  }
+  
+  div.galleryCatalogo img {
+    width: 100%;
+    height: auto;
+  }
+
+  div.descCatalogo {
+    padding-bottom: 65px;
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  div.responsiveCatalogo {
+  
+    padding: 0px 2%;
+    float: left;
+    width: 49.9%;
+  }
+  
+
+
+  @media only screen and (max-width: 900px) {
+    .responsiveCatalogo {
+      width: 50%;
+      padding: 0px;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsiveCatalogo {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

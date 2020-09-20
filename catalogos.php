@@ -14,7 +14,9 @@
     <link href="css/mdb.min.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
     <link href="css/style.min.css" rel="stylesheet">
+    <link href="css/style1.css" rel="stylesheet">
     <style type="text/css">
+    
     html,
     body,
     header,
@@ -25,7 +27,11 @@
     @media (max-width: 740px) {
 
         html,
-        body,
+        body
+        .responsiveCatalogo {
+        width: 100%;
+        }   
+        ,
         header,
         .view {
             height: 1000px;
@@ -46,6 +52,7 @@
         .navbar:not(.top-nav-collapse) {
             background: #1C2331 !important;
         }
+
     }
     </style>
 </head>
@@ -105,111 +112,100 @@
     <!-- Navbar -->
 
     <!-- Full Page Intro -->
-    <br><br>
-    <div class=""
-        style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/78.jpg'); background-repeat: no-repeat; background-size: cover;">
-
-        <!-- Mask & flexbox options-->
-        <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
-
-            <!-- Content -->
-            <div class="container">
-
-                <!--Grid row-->
-
-
-                <!--Grid column-->
-                <br>
-                <div class="card-deck" style= "width: 68rem;">
-                    <div class="card" >
-                        <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Woofer</h5>                            
-                            <p class="card-text"></p>
-                            <a href="recursos/alfonso_contreras_cv.docx.pdf" target="_blank" class = "btn btn-success">¡Mira nuestro catálago!</a>
+    <br><br><br><br><br>
+    <div class="container">
+        <div class="mask rgba-white d-flex justify-content-center align-items-center">
+            <section>
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
                         </div>
                     </div>
-                    <div class="card">
-                    <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Amplificadores clase 0</h5>
-                            <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
-                        </div>
+                </div>
+
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                         </div>
                     </div>
-                    <div class="card">
-                    <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Amplificadores A y B</h5>
-                            <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
-                        </div>
+                </div>
+
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                         </div>
                     </div>
-                    <div class="card">
-                    <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Cables, accesorios y portafusibles</h5>
-                            <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
-                        </div>
+                </div>
+
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                         </div>
                     </div>
-                </div><br><br>
-                <div class="card-deck" style= "width: 68rem;">
-                    <div class="card" >
-                        <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Estereos</h5>                            
-                            <p class="card-text"></p>
-                            <a href="#"  class = "btn btn-success">¡Descarga el catálago!</a>
-                        </div>
+                </div>
+
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                         </div>
                     </div>
-                    <div class="card">
-                    <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Open show</h5>
-                            <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
-                        </div>
+                </div>
+
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                         </div>
                     </div>
-                    <div class="card">
-                    <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Procesadores de audio</h5>
-                            <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
-                        </div>
+                </div>
+
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                         </div>
                     </div>
-                    <div class="card">
-                    <img src="recursos/woo.jpg" class="card-img-top" alt="..." style="padding:5px;">
-                        <div class="card-body">
-                            <h5 class="card-title">Set medios</h5>
-                            <p class="card-text"></p>
-                            <a href="#" class = "btn btn-success">¡Descarga el catálago!</a>
-                        </div>
+                </div>
+
+                <div class="responsiveCatalogo">
+                    <div class="galleryCatalogo">
+                        <a target="_blank" href="catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        </a>
+                        <div class="descCatalogo">
+    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                         </div>
                     </div>
-                </div><br>
-
-
-
-            </div>
-
-            <!--Grid column-->
-
-            <!--Grid column-->
-
-            <!--Grid column-->
-
-            <!--Grid row-->
-
+                </div>
+            </section>
         </div>
-        <!-- Content -->
-
     </div>
-    <!-- Mask & flexbox options-->
-
-    </div>
-    <!-- Full Page Intro -->
-
     <!--Footer-->
   
     <footer class="page-footer text-center font-small mt-4 wow fadeIn">
