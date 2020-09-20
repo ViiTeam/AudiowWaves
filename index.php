@@ -1,4 +1,4 @@
-git login<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -14,6 +14,7 @@ git login<!DOCTYPE html>
   <link href="css/mdb.min.css" rel="stylesheet">
   <!-- Your custom styles (optional) -->
   <link href="css/style.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
   <style type="text/css">
     html,
     body,
@@ -89,7 +90,7 @@ git login<!DOCTYPE html>
         <ul class="navbar-nav nav-flex-icons">
           
           <li class="nav-item">
-            <a href="https://facebook.com/" class="nav-link border border-light rounded"
+            <a href="https://www.facebook.com/Audio-Waves-Control-115356493640716" class="nav-link border border-light rounded"
               target="_Blank">
               <i class="fab fa-facebook-f mr-2"></i></i>Audio Waves
             </a>
@@ -150,6 +151,102 @@ git login<!DOCTYPE html>
   <main>
     <div class="container">
 
+          <!--Inicio del carrousel-->
+      <br><br>
+      <section>
+        <div class="slider">
+	        <div class="slide-track">
+		    		<div class="slide">
+			        <img ></img>
+		        </div>
+
+            <div class="slide">
+			        <img ></img>
+		        </div>
+
+            <div class="slide">
+			        <img ></img>
+		        </div>
+
+            <div class="slide">
+			        <img ></img>
+		        </div>
+            
+            <div class="slide">
+			        <img ></img>
+		        </div>
+
+            <div class="slide">
+			        <img src="img\carrousel\audio_control.png" class="imgC"></img>
+		        </div>
+
+	        	<div class="slide">
+	        		<img src="img\carrousel\carbon_audio.png" class="imgC"></img>
+	        	</div>
+
+	        	<div class="slide">
+	        		<img src="img\carrousel\clarion.png" class="imgC"></img>
+        		</div>
+
+	        	<div class="slide">
+		        	<img src="img\carrousel\crunch.png" class="imgC"></img>
+	        	</div>
+
+	        	<div class="slide">
+        			<img src="img\carrousel\dbdrive.png" class="imgC"></img>
+        		</div>
+
+	        	<div class="slide">
+        			<img src="img\carrousel\hifonics.png" class="imgC"></img>	
+        		</div>
+
+	        	<div class="slide">
+	        		<img src="img\carrousel\hypnotic.png" class="imgC"></img>
+        		</div>
+
+	        	<div class="slide">
+	        		<img src="img\carrousel\jvc.png" class="imgC"></img>
+	        	</div>
+
+	        	<div class="slide">
+        			<img src="img\carrousel\kicker.png" class="imgC"></img>
+	        	</div>
+
+        		<div class="slide">
+	        		<img src="img\carrousel\orion.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\pioneer.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\planetaudio.png" class="imgC"></img>	
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\quantum.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\rock_series.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\sony.png" class="imgC"></img>
+        		</div>
+
+        		<div class="slide">
+        			<img src="img\carrousel\soundstream.png" class="imgC"></img>
+        		</div>
+
+        	</div>
+        </div>
+
+
+      </section>
+      <!--fin de carrousel-->
+
       <!--Section: Main info-->
       <section class="mt-5 wow fadeIn">
 
@@ -178,7 +275,7 @@ git login<!DOCTYPE html>
             <p>Las mejores marcas a los mejores precios.</p>
 
             <!-- CTA -->
-            <a target="_blank" href="/AudiowWaves/catalogos" class="btn btn-indigo btn-md">Catalogos
+            <a target="_self" href="/AudiowWaves/catalogos" class="btn btn-indigo btn-md">Catalogos
               <i class="far fa-image ml-1"></i>
             </a>
 
@@ -246,7 +343,7 @@ git login<!DOCTYPE html>
               </div>
             </div>
 
-            <a target="_blank" href="/AudiowWaves/contacto" class="btn btn-indigo btn-md">CONTACTANOS
+            <a target="_self" href="/AudiowWaves/contacto" class="btn btn-indigo btn-md">CONTACTANOS
               <i class="fas fa-headset ml-1"></i>
             </a>
             <!--/Third row-->
@@ -257,7 +354,6 @@ git login<!DOCTYPE html>
           <!--Grid column-->
           <div class="col-lg-6 col-md-12">
             <img src="img\HOME-primera.jpg" class="img-fluid z-depth-1-half" alt="">
- 
           </div>
           <!--/Grid column-->
 
@@ -286,9 +382,6 @@ git login<!DOCTYPE html>
     <!--/.Call to action-->
 
     <hr class="my-4">
-
-    
-
     <!--Copyright-->
     <div class="footer-copyright py-3">
       © 2020 Copyright:

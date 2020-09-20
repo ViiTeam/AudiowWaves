@@ -1,3 +1,9 @@
+.tituloCatalogo{
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Cherry Swash";
+}
+
 .galleryCatalogo {
     border: 1px solid #ffffff;
   }

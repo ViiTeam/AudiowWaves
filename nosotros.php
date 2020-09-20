@@ -92,7 +92,7 @@
         <ul class="navbar-nav nav-flex-icons">
           
           <li class="nav-item">
-            <a href="https://facebook.com/" class="nav-link border border-light rounded"
+            <a href="https://www.facebook.com/Audio-Waves-Control-115356493640716" class="nav-link border border-light rounded"
               target="_blank">
               <i class="fab fa-facebook-f mr-2"></i></i>Audio Waves
             </a>

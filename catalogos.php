@@ -15,6 +15,7 @@
     <!-- Your custom styles (optional) -->
     <link href="css/style.min.css" rel="stylesheet">
     <link href="css/style1.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cherry Swash">
     <style type="text/css">
     
     html,
@@ -99,7 +100,7 @@
                 <ul class="navbar-nav nav-flex-icons">
 
                     <li class="nav-item">
-                        <a href="https://facebook.com/" class="nav-link border border-light rounded" target="_blank">
+                        <a href="https://www.facebook.com/Audio-Waves-Control-115356493640716" class="nav-link border border-light rounded" target="_blank">
                             <i class="fab fa-facebook-f mr-2"></i></i>Audio Waves
                         </a>
                     </li>
@@ -117,92 +118,102 @@
         <div class="mask rgba-white d-flex justify-content-center align-items-center">
             <section>
                 <div class="responsiveCatalogo">
+
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
+                            <br>
+    	                    <p class="tituloCatalogo";>Amplificadores</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="responsiveCatalogo">
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
-                         </div>
+                            <br>
+    	                    <p class="tituloCatalogo";>AMPLIFICADORES</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="responsiveCatalogo">
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
-                         </div>
+                            <br>
+    	                    <p class="tituloCatalogo";>AMPLIFICADORES</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="responsiveCatalogo">
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
-                         </div>
+                            <br>
+    	                    <p class="tituloCatalogo";>AMPLIFICADORES</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="responsiveCatalogo">
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
-                         </div>
+                            <br>
+    	                    <p class="tituloCatalogo";>AMPLIFICADORES</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="responsiveCatalogo">
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
-                         </div>
+                            <br>
+    	                    <p class="tituloCatalogo";>AMPLIFICADORES</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="responsiveCatalogo">
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
-                         </div>
+                            <br>
+    	                    <p class="tituloCatalogo";>AMPLIFICADORES</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="responsiveCatalogo">
                     <div class="galleryCatalogo">
-                        <a target="_blank" href="catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" alt="Cinque Terre" width="500" height="300" style="border-radius: 10px;">
+                        <a target="_blank" href="recursos\catalogos\catalogo.pdf">
+                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
-    	                    <p style="color:#000000";>AMPLIFICADORES</p>
-                         </div>
+                            <br>
+    	                    <p class="tituloCatalogo"";>AMPLIFICADORES</p>
+                        </div>
                     </div>
                 </div>
+
             </section>
         </div>
     </div>
