@@ -115,13 +115,13 @@
     <!-- Full Page Intro -->
     <br><br><br><br><br>
     <div class="container">
-        <div class="mask rgba-white d-flex justify-content-center align-items-center">
+        <div class="mask rgba-black-ligh d-flex justify-content-center align-items-center">
             <section>
                 <div class="responsiveCatalogo">
 
                     <div class="galleryCatalogo">
                         <a target="_blank" href="recursos\catalogos\catalogo.pdf">
-                            <img class="imgCatalogo" src="img\crunch.jpg" width="500" height="300" style="border-radius: 10px;">
+                            <img class="imgCatalogo" src="img\catalogos\amplificador.jpg" width="500" height="300" style="border-radius: 10px;">
                         </a>
                         <div class="descCatalogo">
                             <br>
