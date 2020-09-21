@@ -23,24 +23,26 @@
       height: 100%;
     }
 
-    @media (max-width: 740px) {
+    @media (max-width: 600px) {
       html,
       body,
       header,
       .view {
-        height: 1000px;
+        height: 75%;
+        width: auto;
       }
     }
 
-    @media (min-width: 800px) and (max-width: 850px) {
+    @media (min-width: 600px) and (max-width: 900px) {
       html,
       body,
       header,
       .view {
-        height: 650px;
+        height: 80%;
+        width: auto;
       }
     }
-    @media (min-width: 800px) and (max-width: 850px) {
+    @media (min-width: 800px) and (max-width: 900px) {
               .navbar:not(.top-nav-collapse) {
                   background: #1C2331!important;
               }
